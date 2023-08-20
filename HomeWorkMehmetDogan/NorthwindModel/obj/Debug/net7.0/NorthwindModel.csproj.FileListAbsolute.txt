@@ -1,0 +1,14 @@
+/Users/mehmetdogan/Projects/HomeWorkMehmetDogan/NorthwindModel/bin/Debug/net7.0/NorthwindModel.deps.json
+/Users/mehmetdogan/Projects/HomeWorkMehmetDogan/NorthwindModel/bin/Debug/net7.0/NorthwindModel.runtimeconfig.json
+/Users/mehmetdogan/Projects/HomeWorkMehmetDogan/NorthwindModel/bin/Debug/net7.0/NorthwindModel.dll
+/Users/mehmetdogan/Projects/HomeWorkMehmetDogan/NorthwindModel/bin/Debug/net7.0/NorthwindModel.pdb
+/Users/mehmetdogan/Projects/HomeWorkMehmetDogan/NorthwindModel/obj/Debug/net7.0/NorthwindModel.csproj.AssemblyReference.cache
+/Users/mehmetdogan/Projects/HomeWorkMehmetDogan/NorthwindModel/obj/Debug/net7.0/NorthwindModel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetdogan/Projects/HomeWorkMehmetDogan/NorthwindModel/obj/Debug/net7.0/NorthwindModel.AssemblyInfoInputs.cache
+/Users/mehmetdogan/Projects/HomeWorkMehmetDogan/NorthwindModel/obj/Debug/net7.0/NorthwindModel.AssemblyInfo.cs
+/Users/mehmetdogan/Projects/HomeWorkMehmetDogan/NorthwindModel/obj/Debug/net7.0/NorthwindModel.csproj.CoreCompileInputs.cache
+/Users/mehmetdogan/Projects/HomeWorkMehmetDogan/NorthwindModel/obj/Debug/net7.0/NorthwindModel.dll
+/Users/mehmetdogan/Projects/HomeWorkMehmetDogan/NorthwindModel/obj/Debug/net7.0/refint/NorthwindModel.dll
+/Users/mehmetdogan/Projects/HomeWorkMehmetDogan/NorthwindModel/obj/Debug/net7.0/NorthwindModel.pdb
+/Users/mehmetdogan/Projects/HomeWorkMehmetDogan/NorthwindModel/obj/Debug/net7.0/NorthwindModel.genruntimeconfig.cache
+/Users/mehmetdogan/Projects/HomeWorkMehmetDogan/NorthwindModel/obj/Debug/net7.0/ref/NorthwindModel.dll

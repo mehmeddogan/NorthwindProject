@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{04301947-565B-4BEE-A35F-26FC4D9109DA}|http">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HomeWorkMehmetDogan/Controllers/EmployeeController.cs">
+    <Files>
+      <File FileName="HomeWorkMehmetDogan/Controllers/EmployeeController.cs" Line="17" Column="20" />
+      <File FileName="HomeWorkMehmetDogan/Models/OrderDetailModel.cs" Line="8" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HomeWorkMehmetDogan" expanded="True" selected="True">
+            <Node name="HomeWorkMehmetDogan" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="NorthwindModel" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HomeWorkMehmetDogan PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mehmetdogan/Projects/HomeWorkMehmetDogan/HomeWorkMehmetDogan/Controllers/EmployeeController.cs" relfile="HomeWorkMehmetDogan/Controllers/EmployeeController.cs" line="76" column="1" />
+      <Breakpoint file="/Users/mehmetdogan/Projects/HomeWorkMehmetDogan/HomeWorkMehmetDogan/Controllers/EmployeeController.cs" relfile="HomeWorkMehmetDogan/Controllers/EmployeeController.cs" line="133" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
